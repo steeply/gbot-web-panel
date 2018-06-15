@@ -7,6 +7,13 @@ GUI для [GBot Trader](https://github.com/steeply/gbot-trader)
 
 ![GBot Web Panel](https://user-images.githubusercontent.com/17174182/41438904-4c1a4b0c-7042-11e8-9f6c-8462679913f1.png)
 
+
+## Совместимость
+
+* **Версия 0.0.4 - работает на GBot 1.5.5**
+* Версия 0.0.3 - работает на GBot 1.5.4
+
+
 ## Подключение
 
 1. Необходимо запустить Gbot в режиме Web service.
