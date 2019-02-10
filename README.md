@@ -5,7 +5,7 @@ GUI для [GBot Trader](https://github.com/steeply/gbot-trader)
 
 ## Screenshot
 
-![GBot Web Panel](https://user-images.githubusercontent.com/17174182/42447475-6d2ac0d8-8393-11e8-8b0b-49fe110447ef.png)
+![GBot Web Panel](https://user-images.githubusercontent.com/17174182/52534027-db8a6780-2d5d-11e9-824e-6d84c7edffd0.png)
 
 
 ## Подключение
